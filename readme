@@ -1,0 +1,19 @@
+Desafios numéricos em C#
+1 / 6 - Tipo de Combustível
+Desafio
+Você recebeu desafio para determinar qual dos produtos é o preferêncial dos clientes de um posto de abastecimento de combustível. Para isso você deve escrever um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte forma: 1.Álcool 2.Gasolina 3.Diesel 4.Fim). Caso o usuário informe um código inválido (fora da faixa de 1 a 4) deve ser solicitado um novo código (até que seja válido). O programa será encerrado quando o código informado for o número 4.
+Entrada
+A entrada contém apenas valores inteiros e positivos.
+Saída
+Deve ser escrito a mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível, conforme exemplo.
+
+2 / 6 - O Maior
+Desafio
+Desenvolva um programa capaz de ler três valores e apresentar o maior deles e adicionar a mensagem “ eh o maior”. Use a seguinte forma como base:
+Obs.: a fórmula apenas calcula o maior entre os dois primeiros (a e b). Um segundo passo, portanto é necessário para chegar no resultado esperado.
+Entrada
+O arquivo de entrada contém três valores inteiros.
+Saída
+Imprima o maior dos três valores seguido pela mensagem " eh o maior".
+
+
